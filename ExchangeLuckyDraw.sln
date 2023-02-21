@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExchangeLuckyDraw", "ConsoleApp1\ExchangeLuckyDraw.csproj", "{942891F7-35B0-4AAE-84A2-D7D4677D38BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{942891F7-35B0-4AAE-84A2-D7D4677D38BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{942891F7-35B0-4AAE-84A2-D7D4677D38BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{942891F7-35B0-4AAE-84A2-D7D4677D38BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{942891F7-35B0-4AAE-84A2-D7D4677D38BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {084B3340-4C0A-44B4-8366-51A3FA145867}
+	EndGlobalSection
+EndGlobal
